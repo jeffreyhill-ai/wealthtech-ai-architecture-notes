@@ -4,6 +4,17 @@ Short architecture notes on trusted financial AI, provider data, and advisor wor
 
 The central idea is simple: the next generation of wealthtech will not be defined by AI features pasted onto existing dashboards. It will be defined by systems that can turn fragmented evidence into governed, source-linked, reviewable financial intelligence.
 
+## What This Demonstrates
+
+These notes show the domain judgment behind trusted wealthtech AI:
+
+- financial data provider differences affect product architecture
+- identifiers, symbology, taxonomies, entitlements, lineage, and attribution matter to AI behavior
+- advisor workflows need review queues and approval boundaries
+- dashboards are downstream of evidence workflows, not a substitute for them
+
+For screening purposes, this repo is the clearest signal of financial-data and wealthtech architecture depth.
+
 ## Notes
 
 - [Why financial AI needs provider-aware data contracts](notes/provider-aware-data-contracts.md)
